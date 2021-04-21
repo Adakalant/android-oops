@@ -1,18 +1,18 @@
 [
         {
           "id": "1", 
-          "title": "LINEN BLEND CROPPED BLAZER",
+          "title": "ZARA - LINEN BLEND CROPPED BLAZER",
           "subtitle": "Long sleeve cropped blazer in a linen blend. Featuring a lapel collar and double-breasted",
           "url": "https://www.zara.com/es/en/linen-blend-cropped-blazer-p02981063.html",
           "thumbnail": "https://static.zara.net/photos///2021/V/0/1/p/2981/063/671/2/w/1280/2981063671_6_1_1.jpg?ts=1618318472950",
-          "tags": ["blazer", "long-sleeve", "red"]
+          "tags": ["zara", "blazer", "long-sleeve", "red"]
         },
         {
           "id": "2", 
-          "title": "Title2",
-          "subtitle": "Subtitle2",
-          "url": "url2",
-          "thumbnail": "Thumbnail2",
-          "tags": ["tag5"]
+          "title": "H&M - CROPPED SHIRT",
+          "subtitle": "Cropped shirt in cotton",
+          "url": "https://www2.hm.com/es_es/productpage.0965677001.html",
+          "thumbnail": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa1%2F3b%2Fa13be668b596c3b66ba1da8e4817682a4403d627.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/fullscreen]",      
+          "tags": ["h&m", "shirt", "short-sleev", "beige"]
         }
 ]

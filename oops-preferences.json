@@ -10,18 +10,14 @@
       { "id": 4, "type": "color", "name": "black", "value": "#000000" },
       { "id": 5, "type": "color", "name": "red", "value": "#00FF00" }
     ],
-    "types": {
-      "tops": [
-        { "id": 6, "type": "top", "name": "t-shirt", "value": "" },
-        { "id": 7, "type": "top", "name": "shirt", "value": "" },
-        { "id": 8, "type": "top", "name": "blouse", "value": "" }
-      ],
-      "bottoms": [
-        { "id": 9, "type": "bottom", "name": "jeans", "value": "" },
-        { "id": 10, "type": "bottom", "name": "chinos", "value": "" },
-        { "id": 11, "type": "bottom", "name": "capri", "value": "" }
-      ]
-    },
+    "types": [
+      { "id": 6, "type": "top", "name": "t-shirt", "value": "" },
+      { "id": 7, "type": "top", "name": "shirt", "value": "" },
+      { "id": 8, "type": "top", "name": "blouse", "value": "" },
+      { "id": 9, "type": "bottom", "name": "jeans", "value": "" },
+      { "id": 10, "type": "bottom", "name": "chinos", "value": "" },
+      { "id": 11, "type": "bottom", "name": "capri", "value": "" }
+    ],
     "events": [
       { "id": 12, "type": "event", "name": "work", "value": "" },
       { "id": 13, "type": "event", "name": "wedding", "value": "" }

@@ -1,10 +1,10 @@
 {
   "preferences": {
-    "genres": {
-      "male": { "id": 0, "type": "genre", "name": "male", "value": "" },
-      "female": { "id": 1, "type": "genre", "name": "female", "value": "" },
-      "both": { "id": 2, "type": "genre", "name": "both", "value": "" }
-    },
+    "genres": [
+      { "id": 0, "type": "genre", "name": "male", "value": "" },
+      { "id": 1, "type": "genre", "name": "female", "value": "" },
+      { "id": 2, "type": "genre", "name": "both", "value": "" }
+    ],
     "colors": [
       { "id": 3, "type": "color", "name": "white", "value": "#FFFFFF" },
       { "id": 4, "type": "color", "name": "black", "value": "#000000" },
